@@ -1,0 +1,1 @@
+QRZbot is an IRC bot that uses a number of modules that do different things. It might have bugs, so be forwarned...  Most of its features are related to ham radio. It is made in Perl.
